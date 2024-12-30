@@ -1,7 +1,5 @@
 CORES PROJECT
-Features
-Mobile Application: Built using Flutter, providing a cross-platform solution for both Android and iOS users.
-Warranty and Customer Support: The app helps users manage warranties and provides seamless access to customer support for Stiebel Eltron products.
+
 
 State Management: Utilizes BloC (Business Logic Component) for efficient state management and to separate the business logic from the UI.
 
@@ -18,7 +16,7 @@ BloC: To manage state and handle the application's business logic.
 Dio: A powerful HTTP client library used for API calls, error handling, and data management.
 
 Key Functionalities
-Product Registration: Users can register their Stiebel Eltron products through the app, ensuring their products are covered under warranty.
+Product Registration: Users can register their Cores products through the app, ensuring their products are covered under warranty.
 
 Warranty Tracking: Track and manage the warranty status of registered products.
 
@@ -29,7 +27,7 @@ Installation
 To set up the project locally, follow these steps:
 Clone the repository:
 ````
-git clone https://github.com/nghianeban02/Cores.git
+git clone https://github.com/nghianeban02/Cores_main.git
 ````
 
 Install dependencies:
